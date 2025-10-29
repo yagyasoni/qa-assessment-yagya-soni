@@ -1,7 +1,7 @@
 # GoTrade QA Assessment: Comprehensive Test Report
 
 **Application Under Test:** GoTrade - Trading Account Management & Order Execution Platform  
-**Test Period:** October 25-29, 2025  
+**Test Period:** October 22-29, 2025  
 **Tester:** Yagya Soni  
 **Testing Framework:** Playwright with TypeScript  
 **Browsers Tested:** Chromium, Microsoft Edge, Mobile Chrome (Pixel 5)  
